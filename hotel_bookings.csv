@@ -179,7 +179,6 @@ lead_time,arrival_date_year,arrival_date_month,arrival_date_day_of_month,stays_i
 6,2015,11,1,2,1,NLD,Online TA,TA/TO,D,D,240,58,151104,2
 0,2016,11,17,1,3,IRL,Groups,Direct,A,A,0,34,161121,1
 14,2016,3,2,0,2,PRT,Online TA,TA/TO,E,E,240,68,160304,2
-87,2017,4,30,2,3,NULL,Offline TA/TO,TA/TO,A,A,6,48,170202,2
 179,2016,7,6,2,5,PRT,Online TA,TA/TO,A,A,240,107.1,160120,2
 0,2017,6,3,0,1,PRT,Direct,Direct,A,A,0,158,170604,3
 77,2015,8,17,2,5,PRT,Online TA,TA/TO,D,E,240,154,150824,2
@@ -241,7 +240,6 @@ lead_time,arrival_date_year,arrival_date_month,arrival_date_day_of_month,stays_i
 31,2016,3,4,2,4,ESP,Online TA,TA/TO,A,A,240,56,160310,2
 10,2015,8,20,0,0,PRT,Online TA,TA/TO,A,D,240,0,150820,2
 80,2016,11,17,1,3,GBR,Online TA,TA/TO,A,A,242,37.8,161121,2
-33,2016,4,10,1,0,NULL,Corporate,Direct,A,I,0,6,160411,1
 151,2016,9,11,2,1,CHE,Direct,Direct,E,E,250,160.4,160914,2
 126,2016,3,2,2,5,NOR,Online TA,TA/TO,E,E,240,62.63,160309,2
 135,2017,6,11,2,2,PRT,Offline TA/TO,TA/TO,A,A,410,56.7,170127,2
